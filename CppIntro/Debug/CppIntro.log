@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\alexo\OneDrive\Documents\Flack\C++ Introduction\CppIntro\main.cpp(4,38): error C2039: 'end1': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iostream(19): message : see declaration of 'std'
+C:\Users\alexo\OneDrive\Documents\Flack\C++ Introduction\CppIntro\main.cpp(4,42): error C2065: 'end1': undeclared identifier

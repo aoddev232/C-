@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\alexo\OneDrive\Documents\Flack\C++ Introduction\DataStructures1\Source.cpp(14,2): error C2365: 'PS_Running': redefinition; previous definition was 'enumerator'
+C:\Users\alexo\OneDrive\Documents\Flack\C++ Introduction\DataStructures1\Source.cpp(9): message : see declaration of 'PS_Running'

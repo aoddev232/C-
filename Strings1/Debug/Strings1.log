@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\alexo\OneDrive\Documents\Flack\C++ Introduction\Strings1\Source.cpp(20,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Strings1.vcxproj -> C:\Users\alexo\OneDrive\Documents\Flack\C++ Introduction\Strings1\Debug\Strings1.exe
